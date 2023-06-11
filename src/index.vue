@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import PokemonList from './src/components/PokemonList.vue'
+import PokemonList from './components/PokemonList.vue'
 
 export default {
   name: 'App',
